@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-  int a = 62, b = 50;
+  int a = 16, b = 4;
 
   /* Storing result of the difference in variable a */
 
