@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-  int a = 8, b = 2;
+  int a = 16, b = 4;
 
   /* Storing result of the divide in variable a */
 
