@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main()
+{
+  int a = 32, b = 2;
+
+  /* Storing result of the multiply in variable a */
+
+  a = a * b;
+
+  printf("Product of a and b = %d\n", a);
+
+  return 0;
+}
