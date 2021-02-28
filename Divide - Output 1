@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main()
+{
+  int a = 8, b = 2;
+
+  /* Storing result of the divide in variable a */
+
+  a = a / b;
+
+  printf("Divide of a and b = %d\n", a);
+
+  return 0;
+}
