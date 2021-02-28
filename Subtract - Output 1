@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main()
+{
+  int a = 62, b = 50;
+
+  /* Storing result of the difference in variable a */
+
+  a = a - b;
+
+  printf("Differemce of a and b = %d\n", a);
+
+  return 0;
+}
