@@ -7,7 +7,7 @@ int main()
 
   a = a - b;
 
-  printf("Differemce of a and b = %d\n", a);
+  printf("Difference of a and b = %d\n", a);
 
   return 0;
 }
