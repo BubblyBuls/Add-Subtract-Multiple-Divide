@@ -1,0 +1,13 @@
+#include<stdio.h>
+  int main()
+{
+  int a = 10, b = 10;
+
+  /* Storing result of the addition in variable a */
+
+  a = a + b;
+
+  printf("Sum of a and b = %d\n", a);
+
+  return 0;
+}
